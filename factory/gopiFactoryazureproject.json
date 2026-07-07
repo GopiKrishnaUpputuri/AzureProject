@@ -1,0 +1,15 @@
+{
+	"name": "gopiFactoryazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4341a8bd-0c3e-4fa0-b1bc-ac1ece54d09f",
+		"tenantId": "862056dc-a74e-48fe-be77-ad6bfc6e7e1f"
+	}
+}
